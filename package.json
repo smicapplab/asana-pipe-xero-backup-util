@@ -15,7 +15,10 @@
     "fs": "^0.0.1-security",
     "googleapis": "^137.1.0",
     "jsdom": "^24.1.0",
+    "open": "^10.1.0",
     "path": "^0.12.7",
-    "pipedrive": "^22.9.0"
+    "pipedrive": "^22.9.0",
+    "qs": "^6.12.1",
+    "readline-sync": "^1.4.10"
   }
 }
